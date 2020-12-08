@@ -13,5 +13,5 @@
 
 ### And check out some of my projects below!
 
-[website]: https://ergoncab.github.io/
+[website]: https://www.egonzalez.eu
 [linkedin]: https://www.linkedin.com/in/ergoncab/
