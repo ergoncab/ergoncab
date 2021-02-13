@@ -1,8 +1,8 @@
 ### Hi there, I'm Eric 👋
 
-## I'm an Aerospace Engineer and Data lover!!
+## I'm an Engineer and Data & Analytics enthusiast!!
 
-- I’m looking for an entry-job/internship in the data science world!
+- Learning about the amazing data science world!
 
 ### Connect with me:
 
